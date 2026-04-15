@@ -23,9 +23,9 @@ SELECT
     
     -- Flag the major global shock years
     CASE 
-        WHEN time IN (1997, 1998) THEN 'Asian Financial Crisis'
-        WHEN time IN (2008, 2009) THEN '2008 Financial Crisis'
-        WHEN time IN (2010, 2011, 2012) THEN 'Eurozone Crisis'
+        WHEN time IN (1997) THEN 'Asian Financial Crisis'
+        WHEN time IN (2008) THEN '2008 Financial Crisis'
+        WHEN time IN (2020) THEN 'Covid'
         ELSE 'Normal'
     END AS shock_period_flag
     
