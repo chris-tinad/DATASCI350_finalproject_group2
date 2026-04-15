@@ -7,7 +7,7 @@ BGD,Bangladesh,1994,521.32,3.89,56.02,Normal
 BGD,Bangladesh,1995,537.93,5.12,56.13,Normal
 BGD,Bangladesh,1996,552.08,4.52,56.24,Normal
 BGD,Bangladesh,1997,566.27,4.49,56.28,"Asian Financial Crisis"
-BGD,Bangladesh,1998,584.45,5.18,56.29,"Asian Financial Crisis"
+BGD,Bangladesh,1998,584.45,5.18,56.29,Normal
 BGD,Bangladesh,1999,600.23,4.67,56.28,Normal
 BGD,Bangladesh,2000,620.56,5.29,56.26,Normal
 BGD,Bangladesh,2001,641.29,5.08,56.1,Normal
@@ -18,10 +18,10 @@ BGD,Bangladesh,2005,739.2,6.54,55.65,Normal
 BGD,Bangladesh,2006,779.42,6.67,55.99,Normal
 BGD,Bangladesh,2007,825.51,7.06,55.86,Normal
 BGD,Bangladesh,2008,866.46,6.01,55.7,"2008 Financial Crisis"
-BGD,Bangladesh,2009,901.73,5.05,55.53,"2008 Financial Crisis"
-BGD,Bangladesh,2010,943.66,5.57,56.6,"Eurozone Crisis"
-BGD,Bangladesh,2011,995.58,6.46,55.94,"Eurozone Crisis"
-BGD,Bangladesh,2012,1050.39,6.52,55.3,"Eurozone Crisis"
+BGD,Bangladesh,2009,901.73,5.05,55.53,Normal
+BGD,Bangladesh,2010,943.66,5.57,56.6,Normal
+BGD,Bangladesh,2011,995.58,6.46,55.94,Normal
+BGD,Bangladesh,2012,1050.39,6.52,55.3,Normal
 BGD,Bangladesh,2013,1103.16,6.01,54.65,Normal
 BGD,Bangladesh,2014,1159.41,6.06,54.31,Normal
 BGD,Bangladesh,2015,1224.39,6.55,53.97,Normal
@@ -29,7 +29,7 @@ BGD,Bangladesh,2016,1299.83,7.11,53.65,Normal
 BGD,Bangladesh,2017,1373.75,6.59,55.78,Normal
 BGD,Bangladesh,2018,1462.25,7.32,56.3,Normal
 BGD,Bangladesh,2019,1564.21,7.88,56.79,Normal
-BGD,Bangladesh,2020,1604.67,3.45,56.46,Normal
+BGD,Bangladesh,2020,1604.67,3.45,56.46,Covid
 BGD,Bangladesh,2021,1702.08,6.94,57.75,Normal
 BGD,Bangladesh,2022,1804.35,7.1,59.03,Normal
 BGD,Bangladesh,2023,1885.38,5.78,58.84,Normal
@@ -41,7 +41,7 @@ BTN,Bhutan,1994,963.02,4.95,69.29,Normal
 BTN,Bhutan,1995,1043.39,7.07,69.25,Normal
 BTN,Bhutan,1996,1099.86,5.57,69.21,Normal
 BTN,Bhutan,1997,1138.4,5.37,69.18,"Asian Financial Crisis"
-BTN,Bhutan,1998,1182.99,5.91,69.16,"Asian Financial Crisis"
+BTN,Bhutan,1998,1182.99,5.91,69.16,Normal
 BTN,Bhutan,1999,1248.62,7.98,69.07,Normal
 BTN,Bhutan,2000,1259.62,3.36,68.72,Normal
 BTN,Bhutan,2001,1321.1,7.33,68.41,Normal
@@ -52,10 +52,10 @@ BTN,Bhutan,2005,1632.02,6.94,67.32,Normal
 BTN,Bhutan,2006,1701.12,5.64,67.36,Normal
 BTN,Bhutan,2007,1952.26,16.1,67.03,Normal
 BTN,Bhutan,2008,2017.76,4.53,66.98,"2008 Financial Crisis"
-BTN,Bhutan,2009,2148.56,7.67,66.94,"2008 Financial Crisis"
-BTN,Bhutan,2010,2378.73,11.93,65.89,"Eurozone Crisis"
-BTN,Bhutan,2011,2552.49,8.49,65.23,"Eurozone Crisis"
-BTN,Bhutan,2012,2654.75,5.16,63.08,"Eurozone Crisis"
+BTN,Bhutan,2009,2148.56,7.67,66.94,Normal
+BTN,Bhutan,2010,2378.73,11.93,65.89,Normal
+BTN,Bhutan,2011,2552.49,8.49,65.23,Normal
+BTN,Bhutan,2012,2654.75,5.16,63.08,Normal
 BTN,Bhutan,2013,2671.07,1.74,63.43,Normal
 BTN,Bhutan,2014,2797.82,5.88,60.96,Normal
 BTN,Bhutan,2015,2954.04,6.66,61.59,Normal
@@ -63,7 +63,7 @@ BTN,Bhutan,2016,3173.37,8.48,61.26,Normal
 BTN,Bhutan,2017,3211.81,2.09,60.88,Normal
 BTN,Bhutan,2018,3300.55,3.5,60.51,Normal
 BTN,Bhutan,2019,3467.39,5.76,64.56,Normal
-BTN,Bhutan,2020,3092.12,-10.22,64.42,Normal
+BTN,Bhutan,2020,3092.12,-10.22,64.42,Covid
 BTN,Bhutan,2021,3206.2,4.42,65.78,Normal
 BTN,Bhutan,2022,3349.73,5.21,59.34,Normal
 BTN,Bhutan,2023,3480.51,4.63,62.96,Normal
@@ -75,7 +75,7 @@ IND,India,1994,588.73,6.66,53.66,Normal
 IND,India,1995,620.7,7.57,53.98,Normal
 IND,India,1996,654.36,7.55,54.3,Normal
 IND,India,1997,667.6,4.05,54.59,"Asian Financial Crisis"
-IND,India,1998,695.29,6.18,54.89,"Asian Financial Crisis"
+IND,India,1998,695.29,6.18,54.89,Normal
 IND,India,1999,742.54,8.85,55.21,Normal
 IND,India,2000,756.7,3.84,55.52,Normal
 IND,India,2001,778.51,4.82,55.36,Normal
@@ -86,10 +86,10 @@ IND,India,2005,947.73,7.92,54.81,Normal
 IND,India,2006,1008.23,8.06,53.94,Normal
 IND,India,2007,1069.25,7.66,53.08,Normal
 IND,India,2008,1086.51,3.09,52.2,"2008 Financial Crisis"
-IND,India,2009,1155.1,7.86,51.38,"2008 Financial Crisis"
-IND,India,2010,1235.16,8.5,50.59,"Eurozone Crisis"
-IND,India,2011,1281.61,5.24,50.01,"Eurozone Crisis"
-IND,India,2012,1333.1,5.46,49.42,"Eurozone Crisis"
+IND,India,2009,1155.1,7.86,51.38,Normal
+IND,India,2010,1235.16,8.5,50.59,Normal
+IND,India,2011,1281.61,5.24,50.01,Normal
+IND,India,2012,1333.1,5.46,49.42,Normal
 IND,India,2013,1399.45,6.39,49.27,Normal
 IND,India,2014,1484.32,7.41,49.13,Normal
 IND,India,2015,1584.0,8.0,48.98,Normal
@@ -97,7 +97,7 @@ IND,India,2016,1694.47,8.26,48.83,Normal
 IND,India,2017,1788.7,6.8,48.66,Normal
 IND,India,2018,1883.36,6.45,48.47,Normal
 IND,India,2019,1936.03,3.87,48.88,Normal
-IND,India,2020,1806.5,-5.78,47.5,Normal
+IND,India,2020,1806.5,-5.78,47.5,Covid
 IND,India,2021,1965.31,9.69,49.17,Normal
 IND,India,2022,2098.21,7.61,51.0,Normal
 IND,India,2023,2270.91,9.19,52.41,Normal
@@ -109,7 +109,7 @@ LKA,"Sri Lanka",1994,1620.29,5.6,49.61,Normal
 LKA,"Sri Lanka",1995,1681.35,5.5,48.15,Normal
 LKA,"Sri Lanka",1996,1712.01,3.8,49.11,Normal
 LKA,"Sri Lanka",1997,1787.41,6.41,49.38,"Asian Financial Crisis"
-LKA,"Sri Lanka",1998,1836.39,4.7,53.43,"Asian Financial Crisis"
+LKA,"Sri Lanka",1998,1836.39,4.7,53.43,Normal
 LKA,"Sri Lanka",1999,1880.11,4.3,52.22,Normal
 LKA,"Sri Lanka",2000,1956.93,6.0,51.27,Normal
 LKA,"Sri Lanka",2001,1896.48,-1.55,50.97,Normal
@@ -120,10 +120,10 @@ LKA,"Sri Lanka",2005,2268.69,6.24,50.26,Normal
 LKA,"Sri Lanka",2006,2426.35,7.67,50.68,Normal
 LKA,"Sri Lanka",2007,2573.54,6.8,50.76,Normal
 LKA,"Sri Lanka",2008,2708.59,5.95,50.95,"2008 Financial Crisis"
-LKA,"Sri Lanka",2009,2787.27,3.54,50.39,"2008 Financial Crisis"
-LKA,"Sri Lanka",2010,2993.01,8.02,50.74,"Eurozone Crisis"
-LKA,"Sri Lanka",2011,3232.37,8.67,50.69,"Eurozone Crisis"
-LKA,"Sri Lanka",2012,3484.79,8.63,50.53,"Eurozone Crisis"
+LKA,"Sri Lanka",2009,2787.27,3.54,50.39,Normal
+LKA,"Sri Lanka",2010,2993.01,8.02,50.74,Normal
+LKA,"Sri Lanka",2011,3232.37,8.67,50.69,Normal
+LKA,"Sri Lanka",2012,3484.79,8.63,50.53,Normal
 LKA,"Sri Lanka",2013,3728.94,4.05,49.87,Normal
 LKA,"Sri Lanka",2014,3929.92,6.38,49.45,Normal
 LKA,"Sri Lanka",2015,4057.72,4.21,51.24,Normal
@@ -131,7 +131,7 @@ LKA,"Sri Lanka",2016,4214.74,5.05,51.45,Normal
 LKA,"Sri Lanka",2017,4436.01,6.46,51.81,Normal
 LKA,"Sri Lanka",2018,4493.04,2.31,49.49,Normal
 LKA,"Sri Lanka",2019,4455.78,-0.22,49.81,Normal
-LKA,"Sri Lanka",2020,4227.23,-4.62,47.79,Normal
+LKA,"Sri Lanka",2020,4227.23,-4.62,47.79,Covid
 LKA,"Sri Lanka",2021,4357.97,4.21,47.35,Normal
 LKA,"Sri Lanka",2022,4033.15,-7.35,47.48,Normal
 LKA,"Sri Lanka",2023,3964.92,-2.33,45.25,Normal
@@ -143,7 +143,7 @@ MDV,Maldives,1994,5053.65,7.75,50.55,Normal
 MDV,Maldives,1995,5580.26,12.99,50.91,Normal
 MDV,Maldives,1996,5888.07,7.86,51.48,Normal
 MDV,Maldives,1997,6254.76,8.4,52.05,"Asian Financial Crisis"
-MDV,Maldives,1998,6599.87,7.49,52.61,"Asian Financial Crisis"
+MDV,Maldives,1998,6599.87,7.49,52.61,Normal
 MDV,Maldives,1999,6889.01,6.18,53.17,Normal
 MDV,Maldives,2000,7037.09,3.85,53.72,Normal
 MDV,Maldives,2001,6647.65,-3.94,52.84,Normal
@@ -154,10 +154,10 @@ MDV,Maldives,2005,7141.88,-11.18,49.4,Normal
 MDV,Maldives,2006,8620.73,23.63,48.58,Normal
 MDV,Maldives,2007,8933.17,7.13,47.74,Normal
 MDV,Maldives,2008,9396.5,8.98,46.97,"2008 Financial Crisis"
-MDV,Maldives,2009,8313.41,-8.34,46.01,"2008 Financial Crisis"
-MDV,Maldives,2010,8569.52,6.79,47.05,"Eurozone Crisis"
-MDV,Maldives,2011,9005.81,8.84,48.11,"Eurozone Crisis"
-MDV,Maldives,2012,8907.66,2.39,49.22,"Eurozone Crisis"
+MDV,Maldives,2009,8313.41,-8.34,46.01,Normal
+MDV,Maldives,2010,8569.52,6.79,47.05,Normal
+MDV,Maldives,2011,9005.81,8.84,48.11,Normal
+MDV,Maldives,2012,8907.66,2.39,49.22,Normal
 MDV,Maldives,2013,9213.33,6.97,50.3,Normal
 MDV,Maldives,2014,9612.08,7.86,51.39,Normal
 MDV,Maldives,2015,9644.91,3.87,52.5,Normal
@@ -165,7 +165,7 @@ MDV,Maldives,2016,9909.08,6.38,53.61,Normal
 MDV,Maldives,2017,10263.3,7.07,56.0,Normal
 MDV,Maldives,2018,10793.89,8.57,58.38,Normal
 MDV,Maldives,2019,11194.93,6.92,60.73,Normal
-MDV,Maldives,2020,7295.6,-32.91,55.14,Normal
+MDV,Maldives,2020,7295.6,-32.91,55.14,Covid
 MDV,Maldives,2021,9759.22,37.51,56.78,Normal
 MDV,Maldives,2022,10940.0,13.83,60.7,Normal
 MDV,Maldives,2023,11439.54,4.94,60.78,Normal
@@ -177,7 +177,7 @@ NPL,Nepal,1994,472.95,8.22,37.19,Normal
 NPL,Nepal,1995,477.74,3.47,37.15,Normal
 NPL,Nepal,1996,492.21,5.33,37.13,Normal
 NPL,Nepal,1997,506.43,5.05,37.07,"Asian Financial Crisis"
-NPL,Nepal,1998,511.55,3.02,37.05,"Asian Financial Crisis"
+NPL,Nepal,1998,511.55,3.02,37.05,Normal
 NPL,Nepal,1999,524.27,4.41,37.02,Normal
 NPL,Nepal,2000,547.22,6.2,37.01,Normal
 NPL,Nepal,2001,564.29,4.8,37.01,Normal
@@ -188,10 +188,10 @@ NPL,Nepal,2005,603.19,3.48,36.88,Normal
 NPL,Nepal,2006,617.48,3.36,36.8,Normal
 NPL,Nepal,2007,633.23,3.41,36.72,Normal
 NPL,Nepal,2008,666.87,6.1,36.67,"2008 Financial Crisis"
-NPL,Nepal,2009,692.4,4.53,36.62,"2008 Financial Crisis"
-NPL,Nepal,2010,721.27,4.82,36.59,"Eurozone Crisis"
-NPL,Nepal,2011,742.62,3.42,36.5,"Eurozone Crisis"
-NPL,Nepal,2012,775.31,4.67,36.37,"Eurozone Crisis"
+NPL,Nepal,2009,692.4,4.53,36.62,Normal
+NPL,Nepal,2010,721.27,4.82,36.59,Normal
+NPL,Nepal,2011,742.62,3.42,36.5,Normal
+NPL,Nepal,2012,775.31,4.67,36.37,Normal
 NPL,Nepal,2013,801.04,3.53,36.19,Normal
 NPL,Nepal,2014,846.67,6.01,36.05,Normal
 NPL,Nepal,2015,875.54,3.98,35.94,Normal
@@ -199,7 +199,7 @@ NPL,Nepal,2016,875.19,0.43,35.8,Normal
 NPL,Nepal,2017,951.86,8.98,35.66,Normal
 NPL,Nepal,2018,1021.91,7.62,35.53,Normal
 NPL,Nepal,2019,1077.12,6.66,35.6,Normal
-NPL,Nepal,2020,1031.54,-2.37,34.25,Normal
+NPL,Nepal,2020,1031.54,-2.37,34.25,Covid
 NPL,Nepal,2021,1062.79,4.84,34.68,Normal
 NPL,Nepal,2022,1113.55,5.63,35.22,Normal
 NPL,Nepal,2023,1136.43,1.98,35.27,Normal
@@ -211,7 +211,7 @@ PAK,Pakistan,1994,1009.06,3.74,48.85,Normal
 PAK,Pakistan,1995,1028.97,4.96,48.06,Normal
 PAK,Pakistan,1996,1047.89,4.85,48.94,Normal
 PAK,Pakistan,1997,1029.0,1.01,49.81,"Asian Financial Crisis"
-PAK,Pakistan,1998,1026.5,2.55,49.64,"Asian Financial Crisis"
+PAK,Pakistan,1998,1026.5,2.55,49.64,Normal
 PAK,Pakistan,1999,1035.5,3.66,49.87,Normal
 PAK,Pakistan,2000,1049.54,4.26,50.1,Normal
 PAK,Pakistan,2001,1057.87,3.65,50.12,Normal
@@ -222,10 +222,10 @@ PAK,Pakistan,2005,1201.23,7.28,50.09,Normal
 PAK,Pakistan,2006,1243.94,6.05,49.74,Normal
 PAK,Pakistan,2007,1265.36,4.44,49.85,Normal
 PAK,Pakistan,2008,1258.05,2.12,49.87,"2008 Financial Crisis"
-PAK,Pakistan,2009,1269.07,3.47,50.27,"2008 Financial Crisis"
-PAK,Pakistan,2010,1256.69,1.5,50.66,"Eurozone Crisis"
-PAK,Pakistan,2011,1261.83,2.68,50.37,"Eurozone Crisis"
-PAK,Pakistan,2012,1275.49,3.03,49.24,"Eurozone Crisis"
+PAK,Pakistan,2009,1269.07,3.47,50.27,Normal
+PAK,Pakistan,2010,1256.69,1.5,50.66,Normal
+PAK,Pakistan,2011,1261.83,2.68,50.37,Normal
+PAK,Pakistan,2012,1275.49,3.03,49.24,Normal
 PAK,Pakistan,2013,1309.7,4.37,49.93,Normal
 PAK,Pakistan,2014,1343.31,4.12,50.07,Normal
 PAK,Pakistan,2015,1380.47,4.22,50.17,Normal
@@ -233,7 +233,7 @@ PAK,Pakistan,2016,1452.19,6.57,50.5,Normal
 PAK,Pakistan,2017,1495.26,4.43,49.69,Normal
 PAK,Pakistan,2018,1561.68,6.15,48.91,Normal
 PAK,Pakistan,2019,1573.83,2.5,49.1,Normal
-PAK,Pakistan,2020,1526.01,-1.27,48.49,Normal
+PAK,Pakistan,2020,1526.01,-1.27,48.49,Covid
 PAK,Pakistan,2021,1595.03,6.51,49.39,Normal
 PAK,Pakistan,2022,1642.28,4.78,49.63,Normal
 PAK,Pakistan,2023,1610.33,-0.41,49.63,Normal
