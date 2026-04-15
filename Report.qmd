@@ -1,13 +1,19 @@
 ---
-title: "Report"
+title: "Report(edit this later)"
 author: "Christina Dai, Tina Piltner, Joe Xia, Kenneth He"
 format:
     html: default
     pdf: default
 ---
 
+Authors: Christina Dai (2585695), Kenneth He (2724494), Tina Piltner (2615282), Joe Xia (2608991), Eric Wang (2608963)
 
+# Introduction
 
-## Quarto
+## Data description
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+## Data analysis
+
+## Results and discussion
+
+## Conclusion
