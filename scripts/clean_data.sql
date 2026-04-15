@@ -1,11 +1,10 @@
--- Drop the clean table if we are re-running the script
+
 DROP TABLE IF EXISTS clean_wdi_data;
 
 -- Create the cleaned table
 CREATE TABLE clean_wdi_data AS
 SELECT 
     economy AS country_code,
-    -- Use a CASE statement to map country codes to readable names
     CASE economy
         WHEN 'IND' THEN 'India'
         WHEN 'PAK' THEN 'Pakistan'
@@ -22,15 +21,16 @@ SELECT
     ROUND("NY.GDP.MKTP.KD.ZG", 2) AS gdp_growth_pct,
     ROUND("SL.EMP.TOTL.SP.ZS", 2) AS employment_ratio,
     
-    -- Feature Engineering: Flag the major global shock years
+    -- Flag the major global shock years
     CASE 
+        WHEN time IN (1997, 1998) THEN 'Asian Financial Crisis'
         WHEN time IN (2008, 2009) THEN '2008 Financial Crisis'
-        WHEN time IN (2020, 2021) THEN 'COVID-19 Pandemic'
+        WHEN time IN (2010, 2011, 2012) THEN 'Eurozone Crisis'
         ELSE 'Normal'
     END AS shock_period_flag
     
 FROM raw_wdi_data
--- Data Cleaning: Filter out rows where all three indicators are completely missing
+--Filter out rows where all three indicators are completely missing
 WHERE "NY.GDP.PCAP.KD" IS NOT NULL 
    OR "NY.GDP.MKTP.KD.ZG" IS NOT NULL 
    OR "SL.EMP.TOTL.SP.ZS" IS NOT NULL;
