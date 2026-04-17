@@ -1,19 +1,43 @@
 ---
-title: "Report(edit this later)"
+title: "Exploration of Economic Trends in South Asia Across Major Crises"
 author: "Christina Dai, Tina Piltner, Joe Xia, Kenneth He"
 format:
     html: default
     pdf: default
 ---
 
+# **Exploration of Economic Trends in South Asia Across Major Crises**
+
 Authors: Christina Dai (2585695), Kenneth He (2724494), Tina Piltner (2615282), Joe Xia (2608991), Eric Wang (2608963)
 
-# Introduction
+## Introduction
+
+*This project examines how major global crises affected economic conditions across South Asia by comparing trends in employment ratio, GDP growth, and GDP per capita for Bangladesh, Bhutan, India, Sri Lanka, Maldives, Nepal, and Pakistan. The analysis compares regional patterns surrounding the 1997 Asian Financial Crisis, the 2008 global financial crisis, and the COVID-19 pandemic in order to evaluate how different types of shocks affected economic performance and recovery across selected South Asian countries.*
+
+Description of topic and main findings
+
+Summary of main findings
 
 ## Data description
 
+Clear introduction of dataset and context
+
+Data merging steps
+
+Data cleaning and pre-processing
+
+Summary of key variables (columns)
+
 ## Data analysis
 
+Interpretation of main results and trends
+
+Well-formatted tables and plots
+
 ## Results and discussion
+
+Clarity, conciseness, and relevance of discussion
+
+Reflection on findings and any limitations
 
 ## Conclusion
