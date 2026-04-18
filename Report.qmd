@@ -34,6 +34,14 @@ Interpretation of main results and trends
 
 Well-formatted tables and plots
 
+![Fig. 1: Table of all average economic indicators for each country by period](figures/country_period_avg_table.png){fig-align="center"}
+
+### 1997 Asian Financial Crisis:
+
+### 2008 Global Financial Crisis:
+
+### COVID-19 Pandemic: 
+
 ## Results and discussion
 
 Clarity, conciseness, and relevance of discussion
