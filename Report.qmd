@@ -1,6 +1,6 @@
 ---
 title: "Exploration of Economic Trends in South Asia Across Major Crises"
-author: "Christina Dai, Tina Piltner, Joe Xia, Kenneth He"
+author: "Christina Dai, Tina Piltner, Joe Xia, Kenneth He, Eric Wang"
 format:
     html: default
     pdf: default
@@ -34,7 +34,25 @@ All data in this project comes from the World Bank's World Development Index dat
 
 The 1997 Asian Financial Crisis was a financial collapse that began in Thailand when its currency lost value, quickly spreading to other Asian economies like Indonesia, South Korea, and Malaysia. It caused sharp declines in currencies, stock markets, and economic growth, leading to widespread business failures and significant economic hardship across the region.
 
-\[joe add in ur graphs here and also short sentences of what the trends were for each graph\]
+![Average economic indicators by country and period surrounding the 1997 Asian Financial Crisis](figures/country_period_avg_table_1997.png){#fig-country_period_avg_table_1997 fig-align="center"}
+
+@fig-country_period_avg_table_1997 summarizes the average GDP per capita, GDP growth rate, and employment ratio for each country during pre-crisis, crisis, and post-crisis periods, visualizing which countries diverged most from the general trend in South Asia. The table shows that the average GDP growth dipped slightly during the crisis period but still remained positive for every country. GDP per capital increased consistently. Employment ratios show almost no variation. The statistics shows that the 1997 Asian Financial Crisis had overall little impact on South Asia.
+
+![GDP growth trends surrounding the 1997 Asian Financial Crisis](figures/gdp_growth_1997crisis.png){#fig-gdp_growth_1997crisis fig-align="center"}
+
+@fig-gdp_growth_1997crisis tracks annual GDP growth rates from 1994–2001, with the crisis years (1997–1998) shaded. It shows that most South Asian countries saw only a mild dip in growth. The overall pattern indicates that the indident acted more as a headwind rather than an extremely destructive financial crisis for South Asia.
+
+![GDP per capita surrounding the 1997 Asian Financial Crisis](figures/gdp_per_capita_1997crisis.png){#fig-gdp_per_capita_1997crisis fig-align="center"}
+
+@fig-gdp_per_capita_1997crisis shows GDP per capita trajectories. Every country's GDP per capita continued rising through 1997–1998, which shows South Asia's insulation from the 1997 Asian Financial Crisis. This chart provides the strongest evidence of South Asia's resilience to the 1997 Asian Financial Crisis.
+
+![Employment ratio surrounding the 1997 Asian Financial Crisis](figures/employment_ratio_1997crisis.png){#fig-employment_ratio_1997crisis fig-align="center"}
+
+@fig-employment_ratio_1997crisis shows employment-to-population ratios over time. The near-flat lines across all countries indicate that the crisis had no measurable impact on labor markets in the region.
+
+![Average GDP growth by country and period](figures/gdp_bar_1997crisis.png){#fig-gdp_bar_1997crisis fig-align="center"}
+
+@fig-gdp_bar_1997crisis compares average GDP growth across pre-crisis, crisis, and post-crisis periods for each country. The crisis had very little impact on Bangladesh, Bhutan, Sri Lanka, and Nepal. Pakistan and India, on the other hand, experienced moderate impact by the 1997 Asian Financial Crisis. Maldives didn't experience negative impact, but saw high growth throughout.
 
 ### 2008 Global Financial Crisis:
 
@@ -85,5 +103,11 @@ The COVID-19 pandemic affected South Asian economies unevenly across employment,
 Clarity, conciseness, and relevance of discussion
 
 Reflection on findings and any limitations
+
+**1997 Asian Financial Crisis.** The most striking finding in the 1997 Asian Financial Crisis is how insulated South Asia was from the crisis that devastated much of East and Southeast Asian Countries. Despite the crisis, GDP per capita of all the South Asian countries continued to rise throughout 1997 – 1998 without exception, and average regional GDP growth only fell by less than 1% from 6.0% pre-crisis to 5.1% during the crisis.
+The resilience can be explained by limited financial integration between South Asian countries and East & Southeast Asia. South Asian economies had restricted capital accounts and underdeveloped equity market. Usually, these characteristics would be considered a reflection of bad economic and financial system development. However, during the 1997 Asian Financial Crisis, the characteristics shielded the South Asian countries from currency speculation and capital flight that triggered crisis instead.
+That said, South Asia wasn’t completely unaffected by the crisis. Some countries, especially Pakistan and India, experienced significant economic slowdown. Pakistan’s average GDP growth dropped from 4.5% pre-crisis to just 1.8% during the crisis period. India also saw a dip to 4.1% growth rate in 1997 before rebounding to 6.2% in 1998 and fully recovered to 8.9% in 1999. Employment ratios remained largely flat throughout the period across all countries, which suggests that the pressure on economic growth did not translate into labor market disruption. Nepal and Bangladesh showed the least volatility of any country across all three metrics.
+
+
 
 ## Conclusion
