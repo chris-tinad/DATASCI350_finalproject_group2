@@ -52,13 +52,13 @@ The 2008 global financial crisis affected South Asian economies differently acro
 
 ![GDP per capita trends surrounding the 2008 financial crisis](figures/gdp_per_capita_2008Crisis.png){#fig-gdppc-2008 fig-align="center" width="90%"}
 
-\<\<\<\<\<\<\< HEAD @fig-gdppc-2008 illustrates the GDP per capita for South Asian nations from 2005 to 2012. The Maldives had significantly higher GDP per capita than the other countries and suffered a distinct decline during the 2008 financial crisis. However, the other economies remained relatively steady. ======= \<\<\<\<\<\<\< HEAD @fig-gdppc-2008 illustrates the GDP per capita for South Asian nations from 2005 to 2012. The Maldives had significantly higher GDP per capita than the other countries and suffered a distinct decline during the 2008 financial crisis. However, the other economies remained relatively steady. ======= @fig-gdppc-2008 illustrates the GDP per capita for South Asian nations from 2005 to 2012. The Maldives had significantly higher GDP per capita than the other countries and suffered a distinct decline during the 2008 financial crisis. However, the other economies remained relatively steady. @fig-gdppc-2008 illustrates the GDP per capita for South Asian nations from 2005 to 2012. The Maldives had significantly higher GDP per capita than the other countries and suffered a distinct decline during the 2008 financial crisis. However, the other economies remained relatively steady. \>\>\>\>\>\>\> 760afe1 (fixing diverging branches) \>\>\>\>\>\>\> continued_report_editing
+@fig-gdppc-2008 illustrates the GDP per capita for South Asian nations from 2005 to 2012. The Maldives had significantly higher GDP per capita than the other countries and suffered a distinct decline during the 2008 financial crisis. However, the other economies remained relatively steady.
 
 ![Average economic indicators during the 2008 crisis period](figures/gdp_bar_2008Crisis.png){#fig-gdpbar-2008 fig-align="center" width="85%"}
 
 @fig-gdpbar-2008 compares average GDP growth before, during, and after the 2008 crisis. The crisis affected South Asian countries unevenly. Bhutan, India, Pakistan, and Sri Lanka experienced lower average growth during the crisis than in the pre-crisis period, while Maldives and Nepal show higher crisis-period averages, indicating variation in economic resilience and recovery.
 
-#### COVID-19 Pandemic: 
+#### COVID-19 Pandemic:
 
 The COVID-19 pandemic caused a sharp global economic downturn as lock-downs halted business activity, disrupted supply chains, and triggered one of the fastest stock market crashes in history. It led to widespread job losses, reduced consumer spending, and severe declines in industries like travel and hospitality, creating lasting instability across global markets.
 
@@ -78,7 +78,7 @@ The COVID-19 pandemic affected South Asian economies unevenly across employment,
 
 ![Average economic indicators during the COVID-19 pandemic period](figures/gdp_bar_covid.png){#fig-gdpbar-covid fig-align="center" width="85%"}
 
-@fig-gdpbar-covid compares average GDP growth before, during, and after the pandemic. The pandemic affected South Asian countries unevenly. Bangladesh maintained positive average growth throughout all periods, indicating strong resilience. Maldives and Bhutan experienced severe contractions during the crisis period but posted strong recoveries afterward. India and Nepal also rebounded notably post-pandemic, while Sri Lanka remained comparatively weak in the recovery phase. \<\<\<\<\<\<\< HEAD ======= \>\>\>\>\>\>\> 760afe1 (fixing diverging branches) \>\>\>\>\>\>\> continued_report_editing
+@fig-gdpbar-covid compares average GDP growth before, during, and after the pandemic. The pandemic affected South Asian countries unevenly. Bangladesh maintained positive average growth throughout all periods, indicating strong resilience. Maldives and Bhutan experienced severe contractions during the crisis period but posted strong recoveries afterward. India and Nepal also rebounded notably post-pandemic, while Sri Lanka remained comparatively weak in the recovery phase.
 
 ## Results and Discussion
 
