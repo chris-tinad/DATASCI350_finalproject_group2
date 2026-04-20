@@ -54,6 +54,24 @@ The 2008 global financial crisis affected South Asian economies differently acro
 
 ### COVID-19 Pandemic:
 
+The COVID-19 pandemic affected South Asian economies unevenly across employment, output growth, and income levels. The following figures summarize trends in employment ratio, GDP growth, GDP per capita, and average pandemic-period comparisons across the selected countries.
+
+![Employment ratio trends surrounding the COVID-19 pandemic](figures/employment_ratio_covid.png){#fig-employment-covid fig-align="center" width="90%"}
+
+@fig-employment-covid shows employment ratio percentages for seven South Asian countries from 2017 to 2023, with a shaded region marking the core pandemic years of 2020–2021. Based on the figure, employment ratios remained relatively stable across most countries despite short-term disruptions. Bhutan maintained one of the highest employment ratios, though it declined sharply in 2022 before recovering. Bangladesh and India experienced moderate increases after the pandemic, while Maldives showed a temporary drop in 2020 followed by a strong rebound. Nepal remained the lowest throughout with only minor variation.
+
+![GDP growth trends surrounding the COVID-19 pandemic](figures/gdp_growth_covid.png){#fig-gdpgrowth-covid fig-align="center" width="90%"}
+
+@fig-gdpgrowth-covid tracks annual GDP growth percentages for South Asian countries from 2017 to 2023, using a shaded region to highlight the pandemic shock in 2020–2021. The figure shows that most countries experienced a sharp slowdown or contraction in 2020, followed by recovery in 2021. Maldives exhibited the most extreme volatility, collapsing deeply in 2020 before rebounding strongly in 2021. India also recorded a notable contraction in 2020 and rapid recovery afterward, while Bangladesh remained comparatively resilient with consistently positive growth.
+
+![GDP per capita trends surrounding the COVID-19 pandemic](figures/gdp_per_capita_covid.png){#fig-gdppc-covid fig-align="center" width="90%"}
+
+@fig-gdppc-covid illustrates GDP per capita for South Asian nations from 2017 to 2023. Maldives had significantly higher GDP per capita than the other countries but suffered a pronounced decline in 2020 during the pandemic before recovering in subsequent years. Most other countries experienced only modest interruptions and resumed gradual upward trends after 2020, particularly Bangladesh and India.
+
+![Average economic indicators during the COVID-19 pandemic period](figures/gdp_bar_covid.png){#fig-gdpbar-covid fig-align="center" width="85%"}
+
+@fig-gdpbar-covid compares average GDP growth before, during, and after the pandemic. The pandemic affected South Asian countries unevenly. Bangladesh maintained positive average growth throughout all periods, indicating strong resilience. Maldives and Bhutan experienced severe contractions during the crisis period but posted strong recoveries afterward. India and Nepal also rebounded notably post-pandemic, while Sri Lanka remained comparatively weak in the recovery phase.
+
 ## Results and Discussion
 
 Clarity, conciseness, and relevance of discussion
