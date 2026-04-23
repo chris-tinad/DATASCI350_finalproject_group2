@@ -1,14 +1,10 @@
 ---
 title: "Exploration of Economic Trends in South Asia Across Major Crises"
-author: "Christina Dai, Tina Piltner, Joe Xia, Kenneth He"
+author: "Christina Dai (2585695), Kenneth He (2724494), Tina Piltner (2615282), Joe Xia (2608991), Eric Wang (2608963)"
 format:
     html: default
     pdf: default
 ---
-
-# **Exploration of Economic Trends in South Asia Across Major Crises**
-
-Authors: Christina Dai (2585695), Kenneth He (2724494), Tina Piltner (2615282), Joe Xia (2608991), Eric Wang (2608963)
 
 ## Introduction
 

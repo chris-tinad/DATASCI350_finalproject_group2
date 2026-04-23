@@ -1,0 +1,29 @@
+# Entity Relationship Diagram
+
+This diagram shows how the cleaned analysis table was created from the raw table.
+
+`raw_wdi_data` was created by retrieving World Bank WDI data through the Python `wbgapi` package and storing the results in SQLite.
+
+```{mermaid}
+erDiagram
+    RAW_WDI_DATA {
+        TEXT economy
+        INTEGER time
+        REAL NY_GDP_PCAP_KD
+        REAL NY_GDP_MKTP_KD_ZG
+        REAL SL_EMP_TOTL_SP_ZS
+    }
+
+    CLEAN_WDI_DATA {
+        TEXT country_code
+        TEXT country_name
+        INTEGER year
+        REAL gdp_per_capita
+        REAL gdp_growth_pct
+        REAL employment_ratio
+        TEXT shock_period_flag
+    }
+
+    RAW_WDI_DATA ||--|| CLEAN_WDI_DATA : transformed_into
+
+```
