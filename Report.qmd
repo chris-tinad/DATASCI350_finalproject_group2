@@ -23,10 +23,6 @@ All data in this project comes from the World Bank's World Development Index dat
 
 ## Data Analysis
 
-*Interpretation of main results and trends*
-
-*Well-formatted tables and plots*
-
 ![Table of all average economic indicators for each country by period](figures/country_period_avg_table.png){#table-average fig-align="center"}
 
 ### 1997 Asian Financial Crisis:
