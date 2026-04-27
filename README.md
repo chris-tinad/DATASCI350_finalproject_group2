@@ -58,9 +58,9 @@ quarto render documentation/entityRelationship.qmd
 ### Run the data analysis for the three final crises with:
 
 ```bash
-jupyter nbconvert --to notebook --execute scripts/1997Crisis.ipynb --output 1997Crisis_executed.ipynb --output-dir=scripts
-jupyter nbconvert --to notebook --execute scripts/2008Crisis.ipynb --output 2008Crisis_executed.ipynb --output-dir=scripts
-jupyter nbconvert --to notebook --execute scripts/covid19.ipynb --output covid19_executed.ipynb --output-dir=scripts
+jupyter nbconvert --execute --inplace scripts/1997Crisis.ipynb
+jupyter nbconvert --execute --inplace scripts/2008Crisis.ipynb
+jupyter nbconvert --execute --inplace scripts/covid19.ipynb
 ```
 
 
