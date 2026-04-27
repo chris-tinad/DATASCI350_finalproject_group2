@@ -1,6 +1,11 @@
 ---
 title: "Exploration of Economic Trends in South Asia Across Major Crises"
-author: "Christina Dai (2585695), Kenneth He (2724494), Tina Piltner (2615282), Joe Xia (2608991), Eric Wang (2608963)"
+author: 
+    - "Christina Dai (2585695)"
+    - "Kenneth He (2724494)" 
+    - "Tina Piltner (2615282)" 
+    - "Joe Xia (2608991)" 
+    - "Eric Wang (2608963)"
 format:
     html: default
     pdf: default
@@ -8,11 +13,9 @@ format:
 
 ## Introduction
 
-*This project examines how major global crises affected economic conditions across South Asia by comparing trends in employment ratio, GDP growth, and GDP per capita for Bangladesh, Bhutan, India, Sri Lanka, Maldives, Nepal, and Pakistan. The analysis compares regional patterns surrounding the 1997 Asian Financial Crisis, the 2008 global financial crisis, and the COVID-19 pandemic in order to evaluate how different types of shocks affected economic performance and recovery across selected South Asian countries.*
+*This project examines how major global crises affected economic conditions across South Asia by comparing trends in employment ratio, GDP growth, and GDP per capita for Bangladesh, Bhutan, India, Sri Lanka, Maldives, Nepal, and Pakistan. The analysis focuses on three major shocks: the 1997 Asian Financial Crisis, the 2008 Global Financial Crisis, and the COVID-19 pandemic. By comparing economic patterns before, during, and after each crisis, this project evaluates how different types of global disruptions shaped economic performance and recovery across selected South Asian countries*
 
-Description of topic and main findings
-
-Summary of main findings
+The main findings suggest that South Asian economies were generally resilient across these crises, although the level of impact varied by country and by type of shock. The 1997 Asian Financial Crisis had the weakest effect on the region, with GDP per capita continuing to rise, GDP growth remaining mostly positive, and employment ratios staying relatively stable. The 2008 Global Financial Crisis had a more uneven impact, slowing growth in several countries while leaving employment and GDP per capita comparatively stable. The COVID-19 pandemic caused the sharpest and most widespread disruption, especially in GDP growth, with countries such as Maldives and India experiencing major contractions before rebounding. Overall, Bangladesh appeared especially resilient across the crises, while Maldives showed the greatest volatility, likely because of its dependence on tourism.x
 
 ## Data Description
 
@@ -29,10 +32,6 @@ All data in this project comes from the World Bank's World Development Index dat
 ### 1997 Asian Financial Crisis:
 
 The 1997 Asian Financial Crisis was a financial collapse that began in Thailand when its currency lost value, quickly spreading to other Asian economies like Indonesia, South Korea, and Malaysia. It caused sharp declines in currencies, stock markets, and economic growth, leading to widespread business failures and significant economic hardship across the region.
-
-![Average economic indicators by country and period surrounding the 1997 Asian Financial Crisis](figures/country_period_avg_table_1997.png){#fig-country_period_avg_table_1997 fig-align="center"}
-
-@fig-country_period_avg_table_1997 summarizes the average GDP per capita, GDP growth rate, and employment ratio for each country during pre-crisis, crisis, and post-crisis periods, visualizing which countries diverged most from the general trend in South Asia. The table shows that the average GDP growth dipped slightly during the crisis period but still remained positive for every country. GDP per capital increased consistently. Employment ratios show almost no variation. The statistics shows that the 1997 Asian Financial Crisis had overall little impact on South Asia.
 
 ![GDP growth trends surrounding the 1997 Asian Financial Crisis](figures/gdp_growth_1997crisis.png){#fig-gdp_growth_1997crisis fig-align="center" width="66%"}
 
@@ -96,10 +95,18 @@ The COVID-19 pandemic affected South Asian economies unevenly across employment,
 
 ## Results and Discussion
 
-Clarity, conciseness, and relevance of discussion
+### 1997 Asian Financial Crisis: 
 
-Reflection on findings and any limitations
+The most striking finding in the 1997 Asian Financial Crisis is how insulated South Asia was from the crisis that devastated much of East and Southeast Asian Countries. Despite the crisis, GDP per capita of all the South Asian countries continued to rise throughout 1997 – 1998 without exception, and average regional GDP growth only fell by less than 1% from 6.0% pre-crisis to 5.1% during the crisis. The resilience can be explained by limited financial integration between South Asian countries and East & Southeast Asia. South Asian economies had restricted capital accounts and underdeveloped equity market. Usually, these characteristics would be considered a reflection of bad economic and financial system development. However, during the 1997 Asian Financial Crisis, the characteristics shielded the South Asian countries from currency speculation and capital flight that triggered crisis instead. That said, South Asia wasn’t completely unaffected by the crisis. Some countries, especially Pakistan and India, experienced significant economic slowdown. Pakistan’s average GDP growth dropped from 4.5% pre-crisis to just 1.8% during the crisis period. India also saw a dip to 4.1% growth rate in 1997 before rebounding to 6.2% in 1998 and fully recovered to 8.9% in 1999. Employment ratios remained largely flat throughout the period across all countries, which suggests that the pressure on economic growth did not translate into labor market disruption. Nepal and Bangladesh showed the least volatility of any country across all three metrics.
 
-**1997 Asian Financial Crisis.** The most striking finding in the 1997 Asian Financial Crisis is how insulated South Asia was from the crisis that devastated much of East and Southeast Asian Countries. Despite the crisis, GDP per capita of all the South Asian countries continued to rise throughout 1997 – 1998 without exception, and average regional GDP growth only fell by less than 1% from 6.0% pre-crisis to 5.1% during the crisis. The resilience can be explained by limited financial integration between South Asian countries and East & Southeast Asia. South Asian economies had restricted capital accounts and underdeveloped equity market. Usually, these characteristics would be considered a reflection of bad economic and financial system development. However, during the 1997 Asian Financial Crisis, the characteristics shielded the South Asian countries from currency speculation and capital flight that triggered crisis instead. That said, South Asia wasn’t completely unaffected by the crisis. Some countries, especially Pakistan and India, experienced significant economic slowdown. Pakistan’s average GDP growth dropped from 4.5% pre-crisis to just 1.8% during the crisis period. India also saw a dip to 4.1% growth rate in 1997 before rebounding to 6.2% in 1998 and fully recovered to 8.9% in 1999. Employment ratios remained largely flat throughout the period across all countries, which suggests that the pressure on economic growth did not translate into labor market disruption. Nepal and Bangladesh showed the least volatility of any country across all three metrics.
+### 2008 Financial Crisis: 
+
+The 2008 Global Financial Crisis had a more visible but still uneven effect on South Asian economies compared with the 1997 Asian Financial Crisis. While the crisis caused a global recession, most South Asian countries continued to experience positive GDP growth, suggesting that the region was affected more through slower growth than complete economic collapse. The main impact appears in GDP growth rather than employment or GDP per capita. Countries such as India, Pakistan, Bhutan, and Sri Lanka experienced lower average growth during the crisis period compared with the pre-crisis period, showing that reduced global demand, tighter financial conditions, and lower investor confidence likely slowed economic activity. However, employment ratios remained relatively stable across most countries, which suggests that the crisis did not create an immediate or dramatic labor market shock in the region. GDP per capita also remained fairly steady for most countries, although Maldives stood out because of its much higher income level and greater volatility. This uneven pattern suggests that the 2008 crisis affected countries differently depending on their exposure to global markets, financial flows, and external demand. A limitation of this analysis is that the indicators used capture broad national trends, so they may not fully show effects on specific industries, informal workers, poverty, or inequality.
+
+### 2020 COVID-19 Pandemic: 
+
+The COVID-19 pandemic produced the sharpest and most widespread disruption across South Asia because it directly affected both global markets and domestic economic activity. Unlike the 1997 and 2008 financial crises, COVID-19 was not only a financial shock but also a real-economy shock caused by lockdowns, travel restrictions, supply-chain disruptions, and reduced consumer activity. This is most clearly shown in GDP growth, where most countries experienced a major slowdown or contraction in 2020 before rebounding in 2021. Maldives showed the greatest volatility, with a severe decline during the pandemic followed by a strong recovery, likely because its economy depends heavily on tourism and international travel. India also experienced a major contraction in 2020 but recovered quickly afterward, while Bangladesh appeared especially resilient by maintaining positive growth throughout the pandemic period. GDP per capita generally followed a similar pattern, with sharper disruption in Maldives and more modest interruptions in most other countries. Employment ratios were more stable than expected, although this may reflect a limitation of the employment ratio as a broad indicator, since it may not fully capture underemployment, informal labor losses, reduced hours, or temporary job insecurity. Overall, the pandemic revealed that South Asian economies could rebound after major shocks, but recovery depended strongly on each country’s economic structure and exposure to vulnerable sectors.
 
 ## Conclusion
+
+Our findings show that South Asian economies were generally resilient across major global crises, although the degree of impact varied by country and by type of shock. The 1997 Asian Financial Crisis had relatively limited effects on the region, with GDP per capita continuing to rise and employment ratios remaining stable. This is potentially due to South Asian economies being less financially integrated with the more affected economies of East Asia. The 2008 Global Financial Crisis produced more uneven results, slowing growth in several countries while leaving others comparatively stable. The COVID-19 pandemic caused the sharpest and most widespread disruption, especially in GDP growth, with countries such as Maldives and India experiencing major disruptions before rebounding. Across all three crises, Bangladesh appeared especially resilient, while the Maldives showed the greatest volatility. We believe this is due to its higher dependence on tourism which would be heavily impacted by global financial instability. These findings suggest that South Asian economies are resilient to market shocks, but recovery outcomes depend heavily on each country’s individual exposure to global markets and economic structure.
