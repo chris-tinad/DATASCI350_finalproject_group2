@@ -83,8 +83,10 @@ ul.task-list li input[type="checkbox"] {
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p><em>This project examines how major global crises affected economic conditions across South Asia by comparing trends in employment ratio, GDP growth, and GDP per capita for Bangladesh, Bhutan, India, Sri Lanka, Maldives, Nepal, and Pakistan. The analysis focuses on three major shocks: the 1997 Asian Financial Crisis, the 2008 Global Financial Crisis, and the COVID-19 pandemic. By comparing economic patterns before, during, and after each crisis, this project evaluates how different types of global disruptions shaped economic performance and recovery across selected South Asian countries</em></p>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD The main findings suggest that South Asian economies were generally resilient across these crises, although the level of impact varied by country and by type of shock. The 1997 Asian Financial Crisis had the weakest effect on the region, with GDP per capita continuing to rise, GDP growth remaining mostly positive, and employment ratios staying relatively stable. The 2008 Global Financial Crisis had a more uneven impact, slowing growth in several countries while leaving employment and GDP per capita comparatively stable. The COVID-19 pandemic caused the sharpest and most widespread disruption, especially in GDP growth, with countries such as Maldives and India experiencing major contractions before rebounding. Overall, Bangladesh appeared especially resilient across the crises, while Maldives showed the greatest volatility, likely because of its dependence on tourism.x</p>
-<p>======= &gt;&gt;&gt;&gt;&gt;&gt;&gt; 6d13a3b (forgot to delete rubric instructions) ## Data Description</p>
+<p>The main findings suggest that South Asian economies were generally resilient across these crises, although the level of impact varied by country and by type of shock. The 1997 Asian Financial Crisis had the weakest effect on the region, with GDP per capita continuing to rise, GDP growth remaining mostly positive, and employment ratios staying relatively stable. The 2008 Global Financial Crisis had a more uneven impact, slowing growth in several countries while leaving employment and GDP per capita comparatively stable. The COVID-19 pandemic caused the sharpest and most widespread disruption, especially in GDP growth, with countries such as Maldives and India experiencing major contractions before rebounding. Overall, Bangladesh appeared especially resilient across the crises, while Maldives showed the greatest volatility, likely because of its dependence on tourism.x</p>
+</section>
+<section id="data-description" class="level2">
+<h2 class="anchored" data-anchor-id="data-description">Data Description</h2>
 <p>All data in this project comes from the World Bank’s World Development Index database. For the purpose of this project, we focused on seven countries in South Asia to analyze their economic trends. Raw data for economic indicators of interest were pulled from the World Bank API using their specific indicator codes and stored in a local SQLite database. We ran a custom SQL cleaning script to rename columns for readability, mapped ISO country codes to full country names, rounded all numeric values to two decimal places, and filtered out rows where all key indicators were missing. A flag column was also added to identify the years of the major economic shocks we were interested in. The economic indicators we pulled were gdp_per_capita, gdp_growth_pct, and employment_ratio. GDP_per_capita is a measure of average economic output per person, adjusted for inflation by rescaling to 2015 USD. GDP_growth_pct is annual percentage growth of GDP which can be interpreted as a measure of the rate of economic growth. The employment_ratio indicator is a ratio of the employed to the total country working age population.</p>
 </section>
 <section id="data-analysis" class="level2">
@@ -110,7 +112,7 @@ Figure&nbsp;1: GDP growth trends surrounding the 1997 Asian Financial Crisis
 </figcaption>
 </figure>
 </div>
-<p><a href="#fig-gdp_growth_1997crisis" class="quarto-xref">Figure&nbsp;1</a> tracks annual GDP growth rates from 1994–2001, with the crisis years (1997–1998) shaded. It shows that most South Asian countries saw only a mild dip in growth. The overall pattern indicates that the indident acted more as a headwind rather than an extremely destructive financial crisis for South Asia.</p>
+<p><a href="#fig-gdp_growth_1997crisis" class="quarto-xref">Figure&nbsp;1</a> tracks annual GDP growth rates from 1994–2001, with the crisis years (1997–1998) shaded. It shows that most South Asian countries saw only a mild dip in growth. The overall pattern indicates that the incident acted more as a headwind rather than an extremely destructive financial crisis for South Asia.</p>
 <div id="fig-gdp_per_capita_1997crisis" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-align="center">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-gdp_per_capita_1997crisis-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -136,7 +138,7 @@ Figure&nbsp;3: Employment ratio surrounding the 1997 Asian Financial Crisis
 <div id="fig-gdp_bar_1997crisis" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-align="center">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-gdp_bar_1997crisis-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="figures/gdp_bar_1997crisis.png" class="quarto-figure quarto-figure-center figure-img" width="660" height="400">
+<img src="figures/gdp_bar_1997crisis.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:66.0%">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gdp_bar_1997crisis-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;4: Average GDP growth by country and period
