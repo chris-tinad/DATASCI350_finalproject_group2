@@ -8,7 +8,8 @@ author:
     - "Eric Wang (2608963)"
 format:
     html: default
-    pdf: default
+    pdf: 
+        fig-pos: "H"
 ---
 
 ## Introduction
@@ -29,19 +30,19 @@ All data in this project comes from the World Bank's World Development Index dat
 
 The 1997 Asian Financial Crisis was a financial collapse that began in Thailand when its currency lost value, quickly spreading to other Asian economies like Indonesia, South Korea, and Malaysia. It caused sharp declines in currencies, stock markets, and economic growth, leading to widespread business failures and significant economic hardship across the region.
 
-![GDP growth trends surrounding the 1997 Asian Financial Crisis](figures/gdp_growth_1997crisis.png){#fig-gdp_growth_1997crisis fig-align="center" width="66%"}
+![GDP growth trends surrounding the 1997 Asian Financial Crisis](figures/gdp_growth_1997crisis.png){#fig-gdp_growth_1997crisis fig-align="center" width="67%"}
 
 @fig-gdp_growth_1997crisis tracks annual GDP growth rates from 1994–2001, with the crisis years (1997–1998) shaded. It shows that most South Asian countries saw only a mild dip in growth. The overall pattern indicates that the incident acted more as a headwind rather than an extremely destructive financial crisis for South Asia.
 
-![GDP per capita surrounding the 1997 Asian Financial Crisis](figures/gdp_per_capita_1997crisis.png){#fig-gdp_per_capita_1997crisis fig-align="center" width="66%"}
+![GDP per capita surrounding the 1997 Asian Financial Crisis](figures/gdp_per_capita_1997crisis.png){#fig-gdp_per_capita_1997crisis fig-align="center" width="67%"}
 
 @fig-gdp_per_capita_1997crisis shows GDP per capita trajectories. Every country's GDP per capita continued rising through 1997–1998, which shows South Asia's insulation from the 1997 Asian Financial Crisis. This chart provides the strongest evidence of South Asia's resilience to the 1997 Asian Financial Crisis.
 
-![Employment ratio surrounding the 1997 Asian Financial Crisis](figures/employment_ratio_1997crisis.png){#fig-employment_ratio_1997crisis fig-align="center" width="66%"}
+![Employment ratio surrounding the 1997 Asian Financial Crisis](figures/employment_ratio_1997crisis.png){#fig-employment_ratio_1997crisis fig-align="center" width="67%"}
 
 @fig-employment_ratio_1997crisis shows employment-to-population ratios over time. The near-flat lines across all countries indicate that the crisis had no measurable impact on labor markets in the region.
 
-![Average GDP growth by country and period](figures/gdp_bar_1997crisis.png){#fig-gdp_bar_1997crisis fig-align="center" width="66%"}
+![Average GDP growth by country and period](figures/gdp_bar_1997crisis.png){#fig-gdp_bar_1997crisis fig-align="center" width="67%"}
 
 @fig-gdp_bar_1997crisis compares average GDP growth across pre-crisis, crisis, and post-crisis periods for each country. The crisis had very little impact on Bangladesh, Bhutan, Sri Lanka, and Nepal. Pakistan and India, on the other hand, experienced moderate impact by the 1997 Asian Financial Crisis. Maldives didn't experience negative impact, but saw high growth throughout.
 
@@ -51,7 +52,7 @@ The 2008 Global Financial Crisis was a severe worldwide economic downturn trigge
 
 The 2008 global financial crisis affected South Asian economies differently across employment, output growth, and income levels. The following figures summarize trends in employment ratio, GDP growth, GDP per capita, and average crisis-period comparisons across the selected countries.
 
-![Employment ratio trends surrounding the 2008 financial crisis](figures/employment_ratio_2008Crisis.png){#fig-employment-2008 fig-align="center" width="66%"}
+![Employment ratio trends surrounding the 2008 financial crisis](figures/employment_ratio_2008Crisis.png){#fig-employment-2008 fig-align="center" width="67%"}
 
 @fig-employment-2008 shows employment ratio percentages for seven South Asian countries from 2005 to 2012, with a shaded region to mark the 2008–2009 financial crisis. Based on the figure, employment ratios were relatively stable across most South Asian countries during the 2008 crisis period. Bhutan remained the highest throughout despite a later decline, India and Maldives experienced more noticeable drops around and after the crisis period, while Bangladesh, Sri Lanka, Pakistan, and Nepal stayed comparatively steady with only modest fluctuations.
 
@@ -59,11 +60,11 @@ The 2008 global financial crisis affected South Asian economies differently acro
 
 @fig-gdpgrowth-2008 tracks the annual GDP growth percentages for South Asian countries from 2005 to 2012, using a shaded region to highlight the economic impact of the 2008–2009 financial crisis. The data shows that while most of these nations maintained positive growth despite a general slowdown during the crisis window, the Maldives exhibited extreme volatility and dropped sharply into negative growth in 2009.
 
-![GDP per capita trends surrounding the 2008 financial crisis](figures/gdp_per_capita_2008Crisis.png){#fig-gdppc-2008 fig-align="center" width="66%"}
+![GDP per capita trends surrounding the 2008 financial crisis](figures/gdp_per_capita_2008Crisis.png){#fig-gdppc-2008 fig-align="center" width="67%"}
 
 @fig-gdppc-2008 illustrates the GDP per capita for South Asian nations from 2005 to 2012. The Maldives had significantly higher GDP per capita than the other countries and suffered a distinct decline during the 2008 financial crisis. However, the other economies remained relatively steady.
 
-![Average economic indicators during the 2008 crisis period](figures/gdp_bar_2008Crisis.png){#fig-gdpbar-2008 fig-align="center" width="66%"}
+![Average economic indicators during the 2008 crisis period](figures/gdp_bar_2008Crisis.png){#fig-gdpbar-2008 fig-align="center" width="67%"}
 
 @fig-gdpbar-2008 compares average GDP growth before, during, and after the 2008 crisis. The crisis affected South Asian countries unevenly. Bhutan, India, Pakistan, and Sri Lanka experienced lower average growth during the crisis than in the pre-crisis period, while Maldives and Nepal show higher crisis-period averages, indicating variation in economic resilience and recovery.
 
@@ -73,19 +74,19 @@ The COVID-19 pandemic caused a sharp global economic downturn as lock-downs halt
 
 The COVID-19 pandemic affected South Asian economies unevenly across employment, output growth, and income levels. The following figures summarize trends in employment ratio, GDP growth, GDP per capita, and average pandemic-period comparisons across the selected countries.
 
-![Employment ratio trends surrounding the COVID-19 pandemic](figures/employment_ratio_covid.png){#fig-employment-covid fig-align="center" width="66%"}
+![Employment ratio trends surrounding the COVID-19 pandemic](figures/employment_ratio_covid.png){#fig-employment-covid fig-align="center" width="67%"}
 
 @fig-employment-covid shows employment ratio percentages for seven South Asian countries from 2017 to 2023, with a shaded region marking the core pandemic years of 2020–2021. Based on the figure, employment ratios remained relatively stable across most countries despite short-term disruptions. Bhutan maintained one of the highest employment ratios, though it declined sharply in 2022 before recovering. Bangladesh and India experienced moderate increases after the pandemic, while Maldives showed a temporary drop in 2020 followed by a strong rebound. Nepal remained the lowest throughout with only minor variation.
 
-![GDP growth trends surrounding the COVID-19 pandemic](figures/gdp_growth_covid.png){#fig-gdpgrowth-covid fig-align="center" width="66%"}
+![GDP growth trends surrounding the COVID-19 pandemic](figures/gdp_growth_covid.png){#fig-gdpgrowth-covid fig-align="center" width="67%"}
 
 @fig-gdpgrowth-covid tracks annual GDP growth percentages for South Asian countries from 2017 to 2023, using a shaded region to highlight the pandemic shock in 2020–2021. The figure shows that most countries experienced a sharp slowdown or contraction in 2020, followed by recovery in 2021. Maldives exhibited the most extreme volatility, collapsing deeply in 2020 before rebounding strongly in 2021. India also recorded a notable contraction in 2020 and rapid recovery afterward, while Bangladesh remained comparatively resilient with consistently positive growth.
 
-![GDP per capita trends surrounding the COVID-19 pandemic](figures/gdp_per_capita_covid.png){#fig-gdppc-covid fig-align="center" width="66%"}
+![GDP per capita trends surrounding the COVID-19 pandemic](figures/gdp_per_capita_covid.png){#fig-gdppc-covid fig-align="center" width="67%"}
 
 @fig-gdppc-covid illustrates GDP per capita for South Asian nations from 2017 to 2023. Maldives had significantly higher GDP per capita than the other countries but suffered a pronounced decline in 2020 during the pandemic before recovering in subsequent years. Most other countries experienced only modest interruptions and resumed gradual upward trends after 2020, particularly Bangladesh and India.
 
-![Average economic indicators during the COVID-19 pandemic period](figures/gdp_bar_covid.png){#fig-gdpbar-covid fig-align="center" width="66%"}
+![Average economic indicators during the COVID-19 pandemic period](figures/gdp_bar_covid.png){#fig-gdpbar-covid fig-align="center" width="67%"}
 
 @fig-gdpbar-covid compares average GDP growth before, during, and after the pandemic. The pandemic affected South Asian countries unevenly. Bangladesh maintained positive average growth throughout all periods, indicating strong resilience. Maldives experienced severe contractions during the crisis period but posted strong recoveries afterward. Bhutan also saw a decrease in growth during the pandemic but recovered shortly after. India and Nepal also rebounded notably post-pandemic, while Sri Lanka remained comparatively weak in the recovery phase.
 
